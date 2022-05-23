@@ -1,2 +1,2 @@
 # first-codes
-let's code python course exercises
+let's code python course assignments
